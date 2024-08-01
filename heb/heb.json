@@ -1,0 +1,1402 @@
+[
+    {
+        "name": "H‐E‐B Plano",
+        "address": "6001 PRESTON ROAD SUITE 100 PLANO, TX 75093",
+        "phone_number": "(469) 395-0660",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B Mansfield",
+        "address": "1670 E. BROAD ST. MANSFIELD, TX 76063",
+        "phone_number": "(682) 400-8756",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B Allen",
+        "address": "575 E. EXCHANGE PKWY ALLEN, TX 75002",
+        "phone_number": "(469) 656-9401",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Waxahachie H‐E‐B",
+        "address": "800 HWY 77 WAXAHACHIE, TX 75165-1884",
+        "phone_number": "(972) 923-2283",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B Frisco Main St",
+        "address": "4800 MAIN STREET FRISCO, TX 75033",
+        "phone_number": "(469) 473-4419",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B McKinney",
+        "address": "8700 ELDORADO PARKWAY MCKINNEY, TX 75070-9999",
+        "phone_number": "(469) 631-7483",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B Alliance",
+        "address": "3451 HERITAGE TRACE PARKWAY FORT WORTH, TX 76177-7505",
+        "phone_number": "(682) 708-1623",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Ennis H‐E‐B",
+        "address": "101 S. CLAY ST ENNIS, TX 75119-4519",
+        "phone_number": "(972) 875-7720",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Burleson H‐E‐B plus!",
+        "address": "165 N.W.JOHN JONES DR. BURLESON, TX 76028-5154",
+        "phone_number": "(817) 447-7484",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Cleburne H‐E‐B",
+        "address": "600 W HENDERSON CLEBURNE, TX 76033-4830",
+        "phone_number": "(817) 641-6203",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Corsicana H‐E‐B",
+        "address": "201 S. 15TH STREET CORSICANA, TX 75110-5138",
+        "phone_number": "(903) 874-4778",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Hudson Oaks H‐E‐B",
+        "address": "100 HUDSON OAKS DR HUDSON OAKS, TX 76087",
+        "phone_number": "(817) 599-1299",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Granbury H‐E‐B",
+        "address": "3804 US HWY 377 GRANBURY, TX 76049-7428",
+        "phone_number": "(817) 579-2500",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Mexia H‐E‐B",
+        "address": "701 E. MILAM STREET MEXIA, TX 76667-2445",
+        "phone_number": "(254) 562-5305",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "35 and 84 H‐E‐B plus!",
+        "address": "801 NORTH I-H 35 BELLMEAD, TX 76705-2874",
+        "phone_number": "(254) 799-0253",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "19th and Meridian H‐E‐B",
+        "address": "3801 N 19TH ST. WACO, TX 76708-1675",
+        "phone_number": "(254) 752-0359",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Valley Mills H‐E‐B plus!",
+        "address": "1821 SOUTH VALLEY MILLS DR. WACO, TX 76711-2119",
+        "phone_number": "(254) 710-9400",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Wooded Acres H‐E‐B",
+        "address": "1301 WOODED ACRES WACO, TX 76710-4437",
+        "phone_number": "(254) 776-7040",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Woodway H‐E‐B plus!",
+        "address": "9100 WOODWAY DRIVE WOODWAY, TX 76712-3371",
+        "phone_number": "(254) 751-0239",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Stephenville H‐E‐B",
+        "address": "2150 W. WASHINGTON STEPHENVILLE, TX 76401-3928",
+        "phone_number": "(254) 965-7063",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B Alliance",
+        "address": "3451 HERITAGE TRACE PARKWAY FORT WORTH, TX 76177-7505",
+        "phone_number": "(682) 708-1623",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Burleson H‐E‐B plus!",
+        "address": "165 N.W.JOHN JONES DR. BURLESON, TX 76028-5154",
+        "phone_number": "(817) 447-7484",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B Mansfield",
+        "address": "1670 E. BROAD ST. MANSFIELD, TX 76063",
+        "phone_number": "(682) 400-8756",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Hudson Oaks H‐E‐B",
+        "address": "100 HUDSON OAKS DR HUDSON OAKS, TX 76087",
+        "phone_number": "(817) 599-1299",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Cleburne H‐E‐B",
+        "address": "600 W HENDERSON CLEBURNE, TX 76033-4830",
+        "phone_number": "(817) 641-6203",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Granbury H‐E‐B",
+        "address": "3804 US HWY 377 GRANBURY, TX 76049-7428",
+        "phone_number": "(817) 579-2500",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Waxahachie H‐E‐B",
+        "address": "800 HWY 77 WAXAHACHIE, TX 75165-1884",
+        "phone_number": "(972) 923-2283",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B Plano",
+        "address": "6001 PRESTON ROAD SUITE 100 PLANO, TX 75093",
+        "phone_number": "(469) 395-0660",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B Frisco Main St",
+        "address": "4800 MAIN STREET FRISCO, TX 75033",
+        "phone_number": "(469) 473-4419",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B McKinney",
+        "address": "8700 ELDORADO PARKWAY MCKINNEY, TX 75070-9999",
+        "phone_number": "(469) 631-7483",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "H‐E‐B Allen",
+        "address": "575 E. EXCHANGE PKWY ALLEN, TX 75002",
+        "phone_number": "(469) 656-9401",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Ennis H‐E‐B",
+        "address": "101 S. CLAY ST ENNIS, TX 75119-4519",
+        "phone_number": "(972) 875-7720",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Stephenville H‐E‐B",
+        "address": "2150 W. WASHINGTON STEPHENVILLE, TX 76401-3928",
+        "phone_number": "(254) 965-7063",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Corsicana H‐E‐B",
+        "address": "201 S. 15TH STREET CORSICANA, TX 75110-5138",
+        "phone_number": "(903) 874-4778",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "19th and Meridian H‐E‐B",
+        "address": "3801 N 19TH ST. WACO, TX 76708-1675",
+        "phone_number": "(254) 752-0359",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "35 and 84 H‐E‐B plus!",
+        "address": "801 NORTH I-H 35 BELLMEAD, TX 76705-2874",
+        "phone_number": "(254) 799-0253",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Wooded Acres H‐E‐B",
+        "address": "1301 WOODED ACRES WACO, TX 76710-4437",
+        "phone_number": "(254) 776-7040",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Valley Mills H‐E‐B plus!",
+        "address": "1821 SOUTH VALLEY MILLS DR. WACO, TX 76711-2119",
+        "phone_number": "(254) 710-9400",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Woodway H‐E‐B plus!",
+        "address": "9100 WOODWAY DRIVE WOODWAY, TX 76712-3371",
+        "phone_number": "(254) 751-0239",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Mexia H‐E‐B",
+        "address": "701 E. MILAM STREET MEXIA, TX 76667-2445",
+        "phone_number": "(254) 562-5305",
+        "Hours": {
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        }
+    }
+]

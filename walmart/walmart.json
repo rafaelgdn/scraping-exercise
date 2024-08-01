@@ -1,0 +1,1347 @@
+[
+    {
+        "name": "Neighborhood Market #2979",
+        "address": "7401 Park Vista Blvd, Fort Worth, TX 76137",
+        "phone_number": "817-605-0416",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Garden Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/2979-fort-worth-tx"
+    },
+    {
+        "name": "Neighborhood Market #3043",
+        "address": "4536 Heritage Trace Parkway, Fort Worth, TX 76244",
+        "phone_number": "817-898-6071",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Walmart Fuel Station",
+            "Garden Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/3043-fort-worth-tx"
+    },
+    {
+        "name": "Neighborhood Market #3135",
+        "address": "717 W. Berry St, Fort Worth, TX 76110",
+        "phone_number": "817-840-0262",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Garden Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/3135-fort-worth-tx"
+    },
+    {
+        "name": "Neighborhood Market #3419",
+        "address": "6756 W Vickery Blvd, Fort Worth, TX 76116",
+        "phone_number": "817-732-2130",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Garden Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/3419-fort-worth-tx"
+    },
+    {
+        "name": "Neighborhood Market #7251",
+        "address": "7800 Summer Creek Drive, Fort Worth, TX 76123",
+        "phone_number": "682-312-1994",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Walmart Fuel Station",
+            "Garden Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/7251-fort-worth-tx"
+    },
+    {
+        "name": "Supercenter #590",
+        "address": "6300 Oakmont Blvd, Fort Worth, TX 76132",
+        "phone_number": "817-263-4065",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Auto Care Center",
+            "Vision Center",
+            "Walmart Fuel Station",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/590-fort-worth-tx"
+    },
+    {
+        "name": "Supercenter #1455",
+        "address": "8401 Anderson Blvd, Fort Worth, TX 76120",
+        "phone_number": "817-276-9021",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Auto Care Center",
+            "Vision Center",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/1455-fort-worth-tx"
+    },
+    {
+        "name": "Supercenter #2834",
+        "address": "5336 Golden Triangle Boulevard, Fort Worth, TX 76244",
+        "phone_number": "817-898-6122",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Vision Center",
+            "Walmart Fuel Station",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/2834-fort-worth-tx"
+    },
+    {
+        "name": "Supercenter #2978",
+        "address": "7451 Mccart Ave, Fort Worth, TX 76133",
+        "phone_number": "817-361-6032",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Auto Care Center",
+            "Vision Center",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/2978-fort-worth-tx"
+    },
+    {
+        "name": "Supercenter #2980",
+        "address": "8520 N Beach St, Fort Worth, TX 76244",
+        "phone_number": "817-514-9793",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Vision Center",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/2980-fort-worth-tx"
+    },
+    {
+        "name": "Supercenter #3044",
+        "address": "2900 Renaissance Square, Fort Worth, TX 76105",
+        "phone_number": "817-900-1909",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Vision Center",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/3044-fort-worth-tx"
+    },
+    {
+        "name": "Supercenter #3773",
+        "address": "9500 Clifford St, Fort Worth, TX 76108",
+        "phone_number": "817-367-0042",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Auto Care Center",
+            "Vision Center",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/3773-fort-worth-tx"
+    },
+    {
+        "name": "Supercenter #4165",
+        "address": "2245 Jacksboro Hwy, Fort Worth, TX 76114",
+        "phone_number": "817-569-6238",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Vision Center",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/4165-fort-worth-tx"
+    },
+    {
+        "name": "Supercenter #5312",
+        "address": "3851 Airport Fwy, Fort Worth, TX 76111",
+        "phone_number": "817-759-2047",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Auto Care Center",
+            "Vision Center",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/5312-fort-worth-tx"
+    },
+    {
+        "name": "Supercenter #5764",
+        "address": "2401 Avondale Haslet Road, Fort Worth, TX 76052",
+        "phone_number": "817-302-1724",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Vision Center",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/5764-fort-worth-tx"
+    },
+    {
+        "name": "Neighborhood Market #3015",
+        "address": "2827 S. Buckner Blvd, Dallas, TX 75227",
+        "phone_number": "214-775-0787",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Garden Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/3015-dallas-tx"
+    },
+    {
+        "name": "Neighborhood Market #3341",
+        "address": "2305 N Central Expy, Dallas, TX 75204",
+        "phone_number": "214-953-0460",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Walmart Fuel Station",
+            "Garden Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/3341-dallas-tx"
+    },
+    {
+        "name": "Neighborhood Market #5021",
+        "address": "2275 Gus Thomasson Rd, Dallas, TX 75228",
+        "phone_number": "214-660-9579",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Garden Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/5021-dallas-tx"
+    },
+    {
+        "name": "Supercenter #2105",
+        "address": "4122 Lbj Freeway, Dallas, TX 75244",
+        "phone_number": "972-980-2195",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Auto Care Center",
+            "Vision Center",
+            "Walmart Fuel Station",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/2105-dallas-tx"
+    },
+    {
+        "name": "Supercenter #2427",
+        "address": "9301 Forest Ln, Dallas, TX 75243",
+        "phone_number": "972-437-9146",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Vision Center",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/2427-dallas-tx"
+    },
+    {
+        "name": "Supercenter #2667",
+        "address": "7401 Samuell Blvd, Dallas, TX 75228",
+        "phone_number": "214-319-2616",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Auto Care Center",
+            "Vision Center",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/2667-dallas-tx"
+    },
+    {
+        "name": "Supercenter #2996",
+        "address": "18121 Marsh Ln, Dallas, TX 75287",
+        "phone_number": "972-307-6978",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Auto Care Center",
+            "Vision Center",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/2996-dallas-tx"
+    },
+    {
+        "name": "Supercenter #3014",
+        "address": "200 Short Blvd, Dallas, TX 75232",
+        "phone_number": "972-232-6400",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Vision Center",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/3014-dallas-tx"
+    },
+    {
+        "name": "Supercenter #3406",
+        "address": "15220 Montfort Rd, Dallas, TX 75248",
+        "phone_number": "972-233-0438",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Auto Care Center",
+            "Vision Center",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/3406-dallas-tx"
+    },
+    {
+        "name": "Supercenter #5147",
+        "address": "1521 N Cockrell Hill Rd, Dallas, TX 75211",
+        "phone_number": "214-330-7249",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Auto Care Center",
+            "Vision Center",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/5147-dallas-tx"
+    },
+    {
+        "name": "Supercenter #5810",
+        "address": "7075 W Wheatland Rd, Dallas, TX 75249",
+        "phone_number": "469-608-6228",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Vision Center",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/5810-dallas-tx"
+    },
+    {
+        "name": "Supercenter #5823",
+        "address": "6185 Retail Rd, Dallas, TX 75231",
+        "phone_number": "972-656-2196",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Vision Center",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/5823-dallas-tx"
+    },
+    {
+        "name": "Supercenter #5889",
+        "address": "9410 Webb Chapel Rd, Dallas, TX 75220",
+        "phone_number": "972-629-0007",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Wireless Services",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/5889-dallas-tx"
+    },
+    {
+        "name": "Supercenter #8930",
+        "address": "15757 Coit Rd, Dallas, TX 75248",
+        "phone_number": "972-235-0681",
+        "Hours": {
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "10:00 AM"
+            }
+        },
+        "services": [
+            "Pharmacy",
+            "Garden Center",
+            "Photo Center",
+            "Bakery",
+            "Deli",
+            "Grocery",
+            "Liquor"
+        ],
+        "url": "https://www.walmart.com/store/8930-dallas-tx"
+    }
+]

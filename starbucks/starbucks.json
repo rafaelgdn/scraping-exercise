@@ -1,0 +1,4189 @@
+[
+    {
+        "name": "AT&T Discovery District",
+        "address": "208 S Akard St, Dallas, TX 75202",
+        "phone_number": "+1 214-782-6655",
+        "Hours": {
+            "Wednesday": {
+                "open": "7:00 AM",
+                "close": "4:00 PM"
+            },
+            "Thursday": {
+                "open": "7:00 AM",
+                "close": "4:00 PM"
+            },
+            "Friday": {
+                "open": "7:00 AM",
+                "close": "7:00 PM"
+            },
+            "Saturday": {
+                "open": "7:00 AM",
+                "close": "7:00 PM"
+            },
+            "Sunday": {
+                "open": "7:00 AM",
+                "close": "6:00 PM"
+            },
+            "Monday": {
+                "open": "7:00 AM",
+                "close": "4:00 PM"
+            },
+            "Tuesday": {
+                "open": "7:00 AM",
+                "close": "4:00 PM"
+            }
+        },
+        "options": [],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "COMMERCE STREET",
+        "address": "1700 COMMERCE STREET, Dallas, TX 75201",
+        "phone_number": "+1 972-685-9360",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Saturday": {
+                "open": "7:00 AM",
+                "close": "5:00 PM"
+            },
+            "Sunday": {
+                "open": "7:00 AM",
+                "close": "3:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food"
+        ]
+    },
+    {
+        "name": "Renaissance Tower",
+        "address": "1201 Elm Street, Dallas, TX 75270",
+        "phone_number": "+1 214-741-9830",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:30 AM",
+                "close": "5:00 PM"
+            },
+            "Thursday": {
+                "open": "5:30 AM",
+                "close": "5:00 PM"
+            },
+            "Friday": {
+                "open": "5:30 AM",
+                "close": "5:00 PM"
+            },
+            "Saturday": {
+                "open": "7:00 AM",
+                "close": "12:00 PM"
+            },
+            "Sunday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Monday": {
+                "open": "5:30 AM",
+                "close": "5:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:30 AM",
+                "close": "5:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Ross Tower",
+        "address": "500 N. Akard St., Dallas, TX 75201",
+        "phone_number": "+1 972-863-9677",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:30 AM",
+                "close": "3:00 PM"
+            },
+            "Thursday": {
+                "open": "6:30 AM",
+                "close": "3:00 PM"
+            },
+            "Friday": {
+                "open": "6:30 AM",
+                "close": "3:00 PM"
+            },
+            "Saturday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Sunday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Monday": {
+                "open": "6:30 AM",
+                "close": "3:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:30 AM",
+                "close": "3:00 PM"
+            }
+        },
+        "options": [],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Fairmont Dallas South Tower Lo",
+        "address": "1717 N. Akard, Dallas, TX 75201",
+        "phone_number": "+1 214-720-5338",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:30 AM",
+                "close": "4:00 PM"
+            },
+            "Thursday": {
+                "open": "6:30 AM",
+                "close": "4:00 PM"
+            },
+            "Friday": {
+                "open": "6:30 AM",
+                "close": "4:00 PM"
+            },
+            "Saturday": {
+                "open": "7:00 AM",
+                "close": "4:00 PM"
+            },
+            "Sunday": {
+                "open": "7:00 AM",
+                "close": "4:00 PM"
+            },
+            "Monday": {
+                "open": "6:30 AM",
+                "close": "4:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:30 AM",
+                "close": "4:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "JPMC Tower",
+        "address": "2200 Ross Ave, Dallas, TX 75201",
+        "phone_number": "+1 214-777-5350",
+        "Hours": {
+            "Wednesday": {
+                "open": "7:00 AM",
+                "close": "3:00 PM"
+            },
+            "Thursday": {
+                "open": "7:00 AM",
+                "close": "3:00 PM"
+            },
+            "Friday": {
+                "open": "7:00 AM",
+                "close": "3:00 PM"
+            },
+            "Saturday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Sunday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Monday": {
+                "open": "7:00 AM",
+                "close": "3:00 PM"
+            },
+            "Tuesday": {
+                "open": "7:00 AM",
+                "close": "3:00 PM"
+            }
+        },
+        "options": [],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Tom Thumb Dallas 3311",
+        "address": "2727 Live Oak, Dallas, TX 75204",
+        "phone_number": "+1 214-273-2115",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Tom Thumb Dallas 3296",
+        "address": "2380 Field Street, Dallas, TX 75201",
+        "phone_number": "+1 972-454-5045",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Pickup - Victory Park Lane",
+        "address": "2401 Victory Park Lane, Dallas, TX 75219",
+        "phone_number": "+1 972-645-5659",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:30 AM",
+                "close": "6:00 PM"
+            },
+            "Thursday": {
+                "open": "5:30 AM",
+                "close": "6:00 PM"
+            },
+            "Friday": {
+                "open": "5:30 AM",
+                "close": "6:30 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "6:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "6:30 PM"
+            },
+            "Monday": {
+                "open": "5:30 AM",
+                "close": "6:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:30 AM",
+                "close": "6:00 PM"
+            }
+        },
+        "options": [],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "McKinney & Olive",
+        "address": "2355 Olive Street, Dallas, TX 75201",
+        "phone_number": "+1 214-965-0956",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:30 AM",
+                "close": "6:00 PM"
+            },
+            "Thursday": {
+                "open": "5:30 AM",
+                "close": "6:00 PM"
+            },
+            "Friday": {
+                "open": "5:30 AM",
+                "close": "6:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Monday": {
+                "open": "5:30 AM",
+                "close": "6:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:30 AM",
+                "close": "6:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Hotel Crescent Court",
+        "address": "400 Crescent Court, Dallas, TX 75201",
+        "phone_number": "+1 214-871-3200",
+        "Hours": {
+            "Wednesday": {
+                "open": "7:00 AM",
+                "close": "5:00 PM"
+            },
+            "Thursday": {
+                "open": "7:00 AM",
+                "close": "5:00 PM"
+            },
+            "Friday": {
+                "open": "7:00 AM",
+                "close": "5:00 PM"
+            },
+            "Saturday": {
+                "open": "7:00 AM",
+                "close": "3:00 PM"
+            },
+            "Sunday": {
+                "open": "7:00 AM",
+                "close": "3:00 PM"
+            },
+            "Monday": {
+                "open": "7:00 AM",
+                "close": "5:00 PM"
+            },
+            "Tuesday": {
+                "open": "7:00 AM",
+                "close": "5:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Hall & 75",
+        "address": "2103 N. Hall Street, Dallas, TX 75204",
+        "phone_number": "+1 469-805-8029",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Gaston & Haskell",
+        "address": "4025 Gaston Avenue, Dallas, TX 75246",
+        "phone_number": "+1 214-824-3675",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "McKinney and Allen",
+        "address": "2801 Allen St., Columbus Square",
+        "phone_number": "Call: ",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            },
+            "Thursday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            },
+            "Friday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            },
+            "Monday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Target Dallas 875",
+        "address": "2417 N Haskell Ave, Dallas, TX 75204",
+        "phone_number": "+1 214-826-0331",
+        "Hours": {
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Kroger Dallas 529",
+        "address": "4241 Capitol Ave, Dallas, TX 75204",
+        "phone_number": "+1 972-338-3100",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Cole & Lemmon",
+        "address": "3699 McKinney Ave, West Village",
+        "phone_number": "Call: ",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "7:30 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "7:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "7:30 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "7:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "7:30 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "7:30 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "7:30 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "2800 Oak Lawn",
+        "address": "2800 Oak Lawn, Dallas, TX 75219",
+        "phone_number": "+1 214-219-0369",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "7:30 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "World Trade Center Dallas",
+        "address": "2050 N Stemmons Fwy, Dallas, TX 75207",
+        "phone_number": "+1 214-757-7752",
+        "Hours": {
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "3:00 PM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "3:00 PM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "3:00 PM"
+            },
+            "Saturday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Sunday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "3:00 PM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "3:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Lemmon & Throckmorton",
+        "address": "4023 Lemmon Ave, Dallas, TX 75219",
+        "phone_number": "+1 469-923-0018",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Tom Thumb Dallas 3569",
+        "address": "3878 Oak Lawn Avenue, Dallas, TX 75219",
+        "phone_number": "+1 972-560-0233",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Greenville and Alta",
+        "address": "1827 Greenville Ave, Dallas, TX 75206",
+        "phone_number": "+1 945-468-2600",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Children's Specialty Center",
+        "address": "2350 NORTH STEMMONS FREEWAY, Dallas, TX 75207",
+        "phone_number": "+1 214-456-9573",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:30 AM",
+                "close": "4:30 PM"
+            },
+            "Thursday": {
+                "open": "6:30 AM",
+                "close": "4:30 PM"
+            },
+            "Friday": {
+                "open": "6:30 AM",
+                "close": "4:30 PM"
+            },
+            "Saturday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Sunday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Monday": {
+                "open": "6:30 AM",
+                "close": "4:30 PM"
+            },
+            "Tuesday": {
+                "open": "6:30 AM",
+                "close": "4:30 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "I-30 & Winslow",
+        "address": "5527 ERL Thorton Fwy, Dallas, TX 75223",
+        "phone_number": "+1 469-673-9906",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            }
+        },
+        "options": [
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Maple & Clara",
+        "address": "4744 Maple Avenue, Dallas, TX 75219",
+        "phone_number": "+1 214-559-4050",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Knox Street",
+        "address": "3216 Knox Street, Dallas, TX 75205",
+        "phone_number": "+1 214-520-2273",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Children's Medical Center of D",
+        "address": "1935 MEDICAL DISTRICT DR., DALLAS, TX 75235",
+        "phone_number": "+1 214-456-3661",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "11:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Lakewood",
+        "address": "1924 Abrams Pkwy, Dallas, TX 75214",
+        "phone_number": "+1 214-823-5758",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Lemmon & Inwood",
+        "address": "5715 Lemmon Avenue, Dallas, TX 75209",
+        "phone_number": "+1 214-353-6907",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "7:30 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "7:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "7:30 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "7:30 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "7:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "7:30 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "7:30 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Tom Thumb Dallas 3614",
+        "address": "315 South Hampton, Dallas, TX 75208",
+        "phone_number": "+1 214-331-0160",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "10:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "10:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "10:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "10:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "10:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "10:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "10:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Mockingbird Station",
+        "address": "5331 E. Mockingbird Lane, Mockingbird Station Shopping Center",
+        "phone_number": "Call: ",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Kroger Dallas 518",
+        "address": "5665 E. Mockingbird, Dallas, TX 75206",
+        "phone_number": "+1 214-826-2901",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Mockingbird & Maple",
+        "address": "2455 West Mockingbird Lane, Dallas, TX 75235",
+        "phone_number": "+1 469-243-9673",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Garland & Gaston",
+        "address": "7325 Gaston Ave, Dallas, TX 75214",
+        "phone_number": "+1 214-550-0402",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            },
+            "Monday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Abrams & Mockingbird",
+        "address": "6333 East Mockingbird, Mockingbird Commons S.C.",
+        "phone_number": "Call: ",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Tom Thumb Dallas 2990",
+        "address": "7117 Inwood Rd, Dallas, TX 75209",
+        "phone_number": "+1 214-357-3980",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Snider Plaza",
+        "address": "6733 Hillcrest Avenue, Dallas, TX 75205",
+        "phone_number": "+1 214-691-4890",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "7:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "7:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "7:00 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "6:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "6:30 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "7:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "7:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Greenville & Lovers",
+        "address": "4924 Greenville Ave, Dallas, TX 75206",
+        "phone_number": "+1 214-706-3561",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Mockingbird & 183",
+        "address": "1103 W Mockingbird Ln, Dallas, TX 75247",
+        "phone_number": "+1 214-920-9530",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Inwood Village",
+        "address": "5350 W. Lovers Lane, Dallas, TX 75209",
+        "phone_number": "+1 214-654-0163",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "7:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "7:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "7:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "7:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "7:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "7:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "7:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Tom Thumb Dallas 2642",
+        "address": "5809 E Lovers Lane, Dallas, TX 75206",
+        "phone_number": "+1 214-750-3200",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "DAL East Gate 7",
+        "address": "8008 Cedar Springs Rd., Dallas, TX 75235",
+        "phone_number": "+1 316-210-1839",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "DAL West Gate 13",
+        "address": "3398 Tom Braniff Ln, Dallas, TX 75235",
+        "phone_number": "+1 214-351-0147",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            }
+        },
+        "options": [],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "I-30 & Cockrell Hill",
+        "address": "1601 N Cockrell Hill, Pinnacle Park",
+        "phone_number": "Call: ",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Target Medallion 55",
+        "address": "212 Medallion Ctr, Dallas, TX 75214",
+        "phone_number": "+1 214-361-2026",
+        "Hours": {
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Tom Thumb Dallas 2503",
+        "address": "4001 Villanova St, Dallas, TX 75225",
+        "phone_number": "+1 214-268-8636",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Greenville & Caruth Haven",
+        "address": "6123 Greenville Ave, Dallas, TX 75206",
+        "phone_number": "+1 214-360-0288",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Pickup - 2nd & Commerce",
+        "address": "215 Commerce Suite 103, Fort Worth, TX 76102",
+        "phone_number": "+1 817-945-4090",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:30 AM",
+                "close": "4:00 PM"
+            },
+            "Thursday": {
+                "open": "6:30 AM",
+                "close": "4:00 PM"
+            },
+            "Friday": {
+                "open": "6:30 AM",
+                "close": "4:00 PM"
+            },
+            "Saturday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Sunday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Monday": {
+                "open": "6:30 AM",
+                "close": "4:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:30 AM",
+                "close": "4:00 PM"
+            }
+        },
+        "options": [],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Sundance Square Plaza",
+        "address": "141 W. Third Street, Fort Worth, TX 76102",
+        "phone_number": "+1 817-882-9480",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:30 AM",
+                "close": "9:30 PM"
+            },
+            "Thursday": {
+                "open": "5:30 AM",
+                "close": "9:30 PM"
+            },
+            "Friday": {
+                "open": "5:30 AM",
+                "close": "10:30 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "10:30 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "10:30 PM"
+            },
+            "Monday": {
+                "open": "5:30 AM",
+                "close": "10:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:30 AM",
+                "close": "10:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Omni Fort Worth Hotel",
+        "address": "1300 Houston St, Fort Worth, TX 76102",
+        "phone_number": "+1 817-535-4197",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Tom Thumb Fort Worth 3312",
+        "address": "2400 W 7th St, Fort Worth, TX 76107",
+        "phone_number": "+1 817-302-1400",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Montgomery Plaza (7th & Carrol",
+        "address": "2600 West 7th Street, Montgomery Plaza",
+        "phone_number": "Call: ",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Target Fort Myers 2042",
+        "address": "301 Carroll St, Fort Worth, TX 76107",
+        "phone_number": "+1 817-302-0290",
+        "Hours": {
+            "Wednesday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Cook Children's MC Camelot Cou",
+        "address": "801 Seventh Avenue, Fort Worth, TX 76104",
+        "phone_number": "+1 682-885-7108",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "4:30 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "4:30 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "8th & Rosedale",
+        "address": "1608 W Rosedale St, Fort Worth, TX 76104",
+        "phone_number": "+1 817-348-8427",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "5th & University",
+        "address": "501 University Drive, Fort Worth, TX 76107",
+        "phone_number": "+1 817-217-7699",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "10:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "10:30 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Baylor All Saints",
+        "address": "1400 8th St., Fort Worth, TX 76104",
+        "phone_number": "+1 817-698-8690",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:30 AM",
+                "close": "12:00 AM"
+            },
+            "Thursday": {
+                "open": "6:30 AM",
+                "close": "12:00 AM"
+            },
+            "Friday": {
+                "open": "6:30 AM",
+                "close": "12:00 AM"
+            },
+            "Saturday": {
+                "open": "6:30 AM",
+                "close": "12:00 AM"
+            },
+            "Sunday": {
+                "open": "6:30 AM",
+                "close": "12:00 AM"
+            },
+            "Monday": {
+                "open": "6:30 AM",
+                "close": "12:00 AM"
+            },
+            "Tuesday": {
+                "open": "6:30 AM",
+                "close": "12:00 AM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "University Park Village",
+        "address": "1620 South University Drive, Fort Worth, TX 76107",
+        "phone_number": "+1 817-332-9748",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Thursday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Friday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Tuesday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "28th & Main",
+        "address": "108 NW 28th Street, Fort Worth, TX 76164",
+        "phone_number": "+1 682-348-9714",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            },
+            "Saturday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "11:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "11:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Texas Christian Univ. Bookstor",
+        "address": "2950 WEST BERRY ST, Fort Worth, TX 76109",
+        "phone_number": "+1 817-257-7844",
+        "Hours": {
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "2:00 PM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "2:00 PM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "2:00 PM"
+            },
+            "Saturday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Sunday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "2:00 PM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "2:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Kroger Fort Worth 520",
+        "address": "3120 S University Dr, Fort Worth, TX 76109",
+        "phone_number": "+1 817-566-7860",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Hulen & Bellaire (Ft Worth)",
+        "address": "3000 S Hulen St, Fort Worth, TX 76109",
+        "phone_number": "+1 817-732-4171",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "7:30 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "7:30 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "7:30 PM"
+            },
+            "Saturday": {
+                "open": "6:30 AM",
+                "close": "6:00 PM"
+            },
+            "Sunday": {
+                "open": "6:30 AM",
+                "close": "6:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "7:30 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "7:30 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Tom Thumb Fort Worth 2574",
+        "address": "3100 S Hulen Street, Fort Worth, TX 76109",
+        "phone_number": "+1 817-570-2950",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Camp Bowie & Littlepage",
+        "address": "5901 Camp Bowie, Fort Worth, TX 76107",
+        "phone_number": "+1 817-570-7994",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "6115 Camp Bowie",
+        "address": "6115 Camp Bowie Blvd., Fort Worth, TX 76116",
+        "phone_number": "+1 817-735-1580",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:30 AM",
+                "close": "6:30 PM"
+            },
+            "Thursday": {
+                "open": "5:30 AM",
+                "close": "6:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "6:30 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "6:00 PM"
+            },
+            "Monday": {
+                "open": "5:30 AM",
+                "close": "6:30 PM"
+            },
+            "Tuesday": {
+                "open": "5:30 AM",
+                "close": "6:30 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Tom Thumb Fort Worth 3622",
+        "address": "6377 Camp Bowie Blvd, , TX 76116, Fort Worth, TX 76116",
+        "phone_number": "+1 817-377-5980",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "183 & Hawks Creek",
+        "address": "6706 Westworth Blvd, Westworth Village, TX 76114",
+        "phone_number": "+1 682-540-1805",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Target Fort Worth 2425",
+        "address": "751 Alta Mere Dr, Fort Worth, TX 76116",
+        "phone_number": "+1 817-566-0565",
+        "Hours": {
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "I-20 and Trail Lake",
+        "address": "5000 Trail Lake Drive, Fort Worth, TX 76133",
+        "phone_number": "+1 817-292-2891",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "10:00 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "10:00 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "10:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "8:30 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "10:00 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "10:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Albertsons Fort Worth 4272",
+        "address": "850 E. LOOP 820, Fort Worth, TX 76112",
+        "phone_number": "+1 817-451-0306",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Target Lake Worth 2008",
+        "address": "6604 Lake Worth Blvd, Lake Worth, TX 76135",
+        "phone_number": "+1 817-302-0083",
+        "Hours": {
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Target Fort Myers Worth 1770",
+        "address": "5700 Overton Ridge Blvd, Fort Worth, TX 76132",
+        "phone_number": "+1 817-423-1600",
+        "Hours": {
+            "Wednesday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "7:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "I-20 & Wichita",
+        "address": "3221 California Parkway East, Forest Hill, TX 76119",
+        "phone_number": "+1 817-551-6225",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:30 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "I-35 & Western Center",
+        "address": "3030 Western Center Blvd, Fort Worth, TX 76131",
+        "phone_number": "+1 817-232-9527",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Hulen & Ledgestone",
+        "address": "5731 S Hulen, Fort Worth, TX 76132",
+        "phone_number": "+1 817-346-2715",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            },
+            "Monday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:30 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Beach & Western",
+        "address": "6405 N Beach St, Fossil Creek Plaza",
+        "phone_number": "Call: ",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "7:00 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "7:00 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "7:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "7:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "7:00 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "7:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Blue Mound & Basswood",
+        "address": "7052 Bluemound Road, Fort Worth, TX 76131",
+        "phone_number": "+1 817-232-8866",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:30 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:30 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Loop 820 & Rufe Snow",
+        "address": "5162 Rufe Snow Drive, North Richland Hills, TX 76180",
+        "phone_number": "+1 817-656-1980",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Hwy 377 & Watauga",
+        "address": "6151 Denton Hwy, Haltom City, TX 76148",
+        "phone_number": "+1 817-281-7076",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:30 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Kroger Fort Worth 530",
+        "address": "1653 Basswood Blvd, Fort Worth, TX 76131",
+        "phone_number": "+1 682-316-6386",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Redeem Rewards"
+        ]
+    },
+    {
+        "name": "Oakmont Blvd and Harris Parkwa",
+        "address": "7429 Oakmont Blvd., Fort Worth, TX 76132",
+        "phone_number": "+1 817-423-0874",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "McCart & Sycamore",
+        "address": "7441 McCart Avenue, Fort Worth, TX 76133",
+        "phone_number": "+1 817-294-4799",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:30 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:30 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "White Settlement & 820",
+        "address": "132 W Loop 820 South, Fort Worth, TX 76108",
+        "phone_number": "+1 817-367-3641",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "I35 & Everman",
+        "address": "8601 South Frwy, Fort Worth, TX 76134",
+        "phone_number": "+1 817-551-2974",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Albertsons Saginaw 4102",
+        "address": "1201 N Saginaw Blvd, Saginaw, TX 76179",
+        "phone_number": "+1 817-232-2777",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [],
+        "amenities": [
+            "Blonde Espresso",
+            "Nitro Cold Brew",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "I-20 & Hwy. 377",
+        "address": "8503 Benbrook Blvd., Benbrook, TX 76126",
+        "phone_number": "+1 817-249-7423",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "8:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Target Fort Worth 758",
+        "address": "8550 East Fwy, Fort Worth, TX 76120",
+        "phone_number": "+1 817-274-7611",
+        "Hours": {
+            "Wednesday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Thursday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Friday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Saturday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Sunday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Monday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            },
+            "Tuesday": {
+                "open": "8:00 AM",
+                "close": "8:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Saginaw - 287 and Bailey Boswe",
+        "address": "1409 North Saginaw Blvd, Saginaw, TX 76179",
+        "phone_number": "+1 817-232-3476",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "10:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "10:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "10:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Little Rd & Office Park",
+        "address": "4340 Little Road, Arlington, TX 76016",
+        "phone_number": "+1 817-478-0678",
+        "Hours": {
+            "Wednesday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Kroger Arlington 695",
+        "address": "5701 W Pleasant Ridge Rd, Arlington, TX 76016",
+        "phone_number": "+1 817-483-0666",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Anderson & Eastchase Parkway",
+        "address": "8651 Anderson Blvd, Fort Worth, TX 76120",
+        "phone_number": "+1 682-348-9987",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "Kroger Fort Worth 576",
+        "address": "4750 W. Bailey Boswell Rd, Fort Worth, TX 76179",
+        "phone_number": "+1 682-316-7507",
+        "Hours": {
+            "Wednesday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "6:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store"
+        ],
+        "amenities": [
+            "Blonde Espresso",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Wireless Hot-Spot"
+        ]
+    },
+    {
+        "name": "Summer Creek & Sycamore School",
+        "address": "5250 Sycamore School Rd, Fort Worth, TX 76123",
+        "phone_number": "+1 682-206-5071",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            },
+            "Tuesday": {
+                "open": "5:00 AM",
+                "close": "9:00 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    },
+    {
+        "name": "North Tarrant Parkway & Beach",
+        "address": "8550 North Beach Street, Fort Worth, TX 76244",
+        "phone_number": "+1 682-882-5045",
+        "Hours": {
+            "Wednesday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Thursday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Friday": {
+                "open": "5:00 AM",
+                "close": "9:30 PM"
+            },
+            "Saturday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Sunday": {
+                "open": "5:30 AM",
+                "close": "9:00 PM"
+            },
+            "Monday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            },
+            "Tuesday": {
+                "open": "4:30 AM",
+                "close": "9:30 PM"
+            }
+        },
+        "options": [
+            "In store",
+            "Drive-thru"
+        ],
+        "amenities": [
+            "Café Seating",
+            "Nitro Cold Brew",
+            "Outdoor Seating",
+            "Oven-warmed Food",
+            "Redeem Rewards",
+            "Starbucks Wi-Fi"
+        ]
+    }
+]
